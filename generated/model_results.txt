@@ -1,0 +1,8 @@
+LOGISTICS PREDICTIVE MODELING RESULTS
+-------------------------------------
+Best Parameters: {'model__max_depth': 10, 'model__n_estimators': 100}
+MAE: 1.756
+RMSE: 2.181
+R2 Score: 0.949
+Average CV R2: 0.946
+Recommended Carrier: Premium
